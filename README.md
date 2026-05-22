@@ -26,3 +26,4 @@ Este perfil é voltado para **troca de experiências e networking**. Não tenho 
 ---
 
 Fique à vontade para explorar meus repositórios e entrar em contato. Vamos trocar ideias! 🚀
+# blue-diaz
