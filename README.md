@@ -17,13 +17,19 @@ Sou um desenvolvedor autodidata apaixonado por aprendizado contínuo. Estou semp
 
 Este perfil é voltado para **troca de experiências e networking**. Não tenho intenção de monetizá-lo, acredito que o valor está na conexão e no aprendizado mútuo.
 
+---
+
 ## Uma curiosidade
 
-- Eu não havia percebido que o prometheus estava causando tanta confusão, portanto agora ele sera desenvolvido privado.
-
-- caso queira contribuir de forma oficial esse é o email: mocoto.persona@gmail.com 💪🏽
+- _Consequencias que provam que a vida é o momento_.
+- _Criaram o monstro, e o susto teve sua causa e efeito_.
 
 ---
 
-Fique à vontade para explorar meus repositórios e entrar em contato. Vamos trocar ideias! 🚀
-# blue-diaz
+- Eu não havia percebido que o prometheus estava causando tanta confusão, portanto agora ele sera desenvolvido privado.
+
+- caso queira contribuir de forma oficial esse é o email: mocoto.persona@gmail.com
+
+---
+
+Fique à vontade para explorar meus repositórios e entrar em contato. Vamos trocar ideias!
