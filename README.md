@@ -38,7 +38,7 @@ Fique à vontade para explorar meus repositórios e entrar em contato. Vamos tro
 
 <div align="center">
 
-![Visitors](https://black-diaz.vercel.app/api/visitors/blue-diaz/badge.svg?label=visitors&shape=square&labelColor=0a0a0f&valueColor=00fff7&textColor=ffffff)
+![Visitors](https://black-diaz.vercel.app/api/visitors/blue-diaz/badge?label=visitors&shape=square&labelColor=000000&valueColor=004d4d&textColor=ffffff)
 
 </div>
 
