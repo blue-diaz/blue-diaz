@@ -21,14 +21,11 @@ Este perfil é voltado para **troca de experiências e networking**. Não tenho 
 
 ## Uma curiosidade
 
-- _Consequencias que provam que a vida é o momento_.
-- _Criaram o monstro, e o susto teve sua causa e efeito_.
+- Se voce repetir algo deversas vezes é inevitavel que fique bom. Obvio né, mas dizem que é preciso um esforço enorme pra ver o que esta na frente do nariz.
 
 ---
 
-- Eu não havia percebido que o prometheus estava causando tanta confusão, portanto agora ele sera desenvolvido privado.
-
-- caso queira contribuir de forma oficial esse é o email: mocoto.persona@gmail.com
+- caso queira contribuir com algum dos projeto que conheça do nosso perfil de forma oficial, esse é o email: mocoto.persona@gmail.com
 
 ---
 
