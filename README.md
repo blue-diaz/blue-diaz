@@ -23,6 +23,8 @@ Este perfil é voltado para **troca de experiências e networking**. Não tenho 
 
 - As melhores coisas da vida não são coisas, e na mairoria das vezes vem por acaso.
 
+- que tal uma indicação de um servidor do discord pra eu entrar, essa vida de solitude não é algo que busco.
+
 ---
 
 - caso queira contribuir com algum dos projeto que conheça do nosso perfil de forma oficial, esse é o email: mocoto.persona@gmail.com
