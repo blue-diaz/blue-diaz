@@ -27,7 +27,15 @@ Este perfil é voltado para **troca de experiências e networking**. Não tenho 
 
 ---
 
+## Contato
+
 - caso queira contribuir com algum dos projeto que conheça do nosso perfil de forma oficial, esse é o email: mocoto.persona@gmail.com
+
+#### Comunidade
+
+- pensei nessa comunidade pra discutirmos ideias, falar sobre nossos projeto e receber feedbacks e sugestões para o prometheus
+
+[Comunidade no matrix](https://matrix.to/#/#prometheus-cli:matrix.org)
 
 ---
 
