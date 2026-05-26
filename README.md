@@ -21,32 +21,24 @@ Este perfil é voltado para **troca de experiências e networking**. Não tenho 
 
 ## Uma curiosidade
 
-- As melhores coisas da vida não são coisas, e na mairoria das vezes vem por acaso.
-
-- que tal uma indicação de um servidor do discord pra eu entrar, essa vida de solitude não é algo que busco.
+- O evereste não é a maior montanha do mundo. 🫨
 
 ---
 
 ## Contato
 
-- caso queira contribuir com algum dos projeto que conheça do nosso perfil de forma oficial, esse é o email: mocoto.persona@gmail.com
+- caso queira contribuir com algum dos projetos que conheça do nosso perfil de forma oficial, esse é o email:
 
-#### Comunidade
+[![social/social-gmail.svg](https://black-diaz.vercel.app/api/svg/social/social-gmail.svg)](mailto:mocoto.persona@gmail.com)
 
-- pensei nessa comunidade pra discutirmos ideias, falar sobre nossos projeto e receber feedbacks e sugestões para o prometheus
+## Comunidade
 
-[Comunidade no matrix](https://matrix.to/#/#prometheus-cli:matrix.org)
+- pensei nessa comunidade pra discutirmos ideias, falar sobre nossos projetos e receber feedbacks e sugestões para o prometheus
 
----
-
-Fique à vontade para explorar meus repositórios e entrar em contato. Vamos trocar ideias!
+[![social/social-matrix.svg](https://black-diaz.vercel.app/api/svg/social/social-matrix.svg)](https://matrix.to/#/#prometheus-cli:matrix.org)
 
 ---
 
-<div align="center">
-
-![Visitors](https://black-diaz.vercel.app/api/visitors/blue-diaz/badge?label=visitors&shape=square&labelColor=000000&valueColor=004d4d&textColor=ffffff)
-
-</div>
+**_Fique à vontade para explorar meus repositórios e entrar em contato. Vamos trocar ideias!_**
 
 ---
