@@ -21,7 +21,7 @@ Este perfil é voltado para **troca de experiências e networking**. Não tenho 
 
 ## Uma curiosidade
 
-- Se voce repetir algo deversas vezes é inevitavel que fique bom. Obvio né, mas dizem que é preciso um esforço enorme pra ver o que esta na frente do nariz.
+- As melhores coisas da vida não são coisas, e na mairoria das vezes vem por acaso.
 
 ---
 
